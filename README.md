@@ -1,6 +1,6 @@
 # Link Shortener
 
-This app shortens URLs. It is made with
+This app that uses short links to redirect you to other websites. It is made with
 
 - SvelteJS
 - SvelteKit
