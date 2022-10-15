@@ -2,7 +2,7 @@
 
 This app shortens URLs. It is made with
 
-- Svelte
+- SvelteJS
 - SvelteKit
 - TypeScript
 - Directus Cloud
